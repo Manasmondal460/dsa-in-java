@@ -5,6 +5,7 @@
  *           products while traversing from the right.
  * Time: O(n) | Space: O(1) extra (excluding the output array)
  */
+package arrays;
 import java.util.Arrays;
 
 public class ProductOfArrayExceptSelf {
